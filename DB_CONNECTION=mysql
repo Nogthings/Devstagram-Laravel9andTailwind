@@ -1,0 +1,12 @@
+APP_NAME=Laravel
+APP_ENV=local
+APP_KEY=base64:yUIeLEzXZdouvwKz5JRGkj/D+WGqGBbfLpONXDUmO5M=
+APP_DEBUG=true
+APP_URL=http://localhost
+
+DB_CONNECTION=mysql
+DB_HOST=containers-us-west-78.railway.app
+DB_PORT=7798
+DB_DATABASE=railway
+DB_USERNAME=root
+DB_PASSWORD=2N9YFWOe8QoVnVCzTRBd
